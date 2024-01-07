@@ -1,6 +1,6 @@
 # *Who are you?*
 
-Hi, it's ya boy 🎉"(bridge)"🎉 (or whatever you call me), I'm just a kid who is **VERY** obsessed with ways to make the computer goes `beep beep boop boop` <br>
+Hi, me 🎉"(bridge)"🎉 :3 (or whatever you call me), I'm just a kid who is **VERY** obsessed with ways to make the computer goes `beep beep boop boop` <br>
 
 > "Adudu man chạy rồi" <br>
 *an idiot, noob, "hi chat" enjoyer, funni*  <br>
@@ -12,10 +12,10 @@ Hi, it's ya boy 🎉"(bridge)"🎉 (or whatever you call me), I'm just a kid who
 - [Vietnamese](https://en.wikipedia.org/wiki/Vietnam) (~~and no, I don't conspire on a coup!~~)
 - Self learn 🎓
 - Yet still goes to school (heey but like my school is cool eh!) 😓
-- I love my ginger cat, I named it "ngu" 🐱🐱🐱🐱 <br>
+- omgiie i luv cat!1, orang fav too :33333" 🐱🐱🐱🐱 <br>
 
 ## My tech stack
-*I would never call myself a smart and wise man, don't yell at me! 🤓🤨
+*pwease no yellie, i never call myself a wise person evr!!11* 🤓🤨
 
 | Hardware | Software |
 | :-------: | :-------: |
