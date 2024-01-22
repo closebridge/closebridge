@@ -19,6 +19,6 @@ Hi, me 🎉"(bridge)"🎉 :3 (or whatever you call me), I'm just a kid who is **
 
 | Hardware | Software |
 | :-------: | :-------: |
-| Intel Core i7 🙃  | HTML, CSS 🥴🫠  |
-| 12GB RAM 😩   | JS, VBA, Lua 😡   |
+| Intel Core i7 🙃  | HTML, CSS, MD 📝🥴🫠  |
+| 12GB RAM 😩   | JS, VBA, Lua 🙃🤒   |
 | GT 730M 😳  | Windows 10, macOS 11  ❤️🥰 |
