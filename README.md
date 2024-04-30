@@ -31,8 +31,4 @@ Hi, me 🎉"(bridge)"🎉 :3 (or whatever you call me), I'm just a kid who is **
 *i hate myself, but i fucking love it.* #learntocode<br>
 ## Contactee 📫‼️
 
-You can always contact me for whatever reason on Email or Discord! *Be aware that I might not be online most of the time though...*😃
-
-✉️ == `bridge@420blaze.it`
-
-💬 == `anyanal` (I am well mature okay!?)
+I DONT WANT A JOB, JUST DO A DMCA REQUEST TO ANYTHING, GOODBYE WORLD
