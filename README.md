@@ -21,14 +21,14 @@ Hi, me 🎉"(bridge)"🎉 :3 (or whatever you call me), I'm just a kid who is **
 | Hardware | Software |
 | :-------: | :-------: |
 | Intel Core i7 🙃  | HTML, CSS, MD 📝🥴🫠  |
-| 12GB RAM 😩   | JS, VBA, Lua, Python 🙃🤒   |
-| GT 730M 😳  | Windows 10, macOS 11  ❤️🥰 |
+| 12GB RAM 😩   | HTML/CSS/JS, VBA, Lua, Python 🙃🤒   |
+| ~~GT 730M~~ (Fried) 🪦  | Windows 11, ~~macOS 11~~, Ubuntu 22.x ❤️🥰 |
 
 
 ## My coding experience
 ![funsie](https://github.com/closebridge/closebridge/assets/108937010/683d65fe-2b98-48bf-8edb-038d1dc18abb)
 
-*i hate myself, but i fucking love it.* #learntocode<br>
+*I hate myself, but I fucking love it.* #noPainNoGain<br>
 ## Contactee 📫‼️
 
-I DONT WANT A JOB, JUST DO A DMCA REQUEST TO ANYTHING, GOODBYE WORLD
+`bridge@420blaze.it` Feel free to do so!
