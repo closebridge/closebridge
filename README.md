@@ -28,6 +28,9 @@ Hi, me 🎉"(bridge)"🎉 :3 (or whatever you call me), and I'm very obsessed wi
 - Self learn 🎓
 - Yet still goes to school (heey but like my school is cool eh!) 😓
 - omgiie i luv cat!1, especially orang catto :33333" 🐱🐱🐱🐱 <br>
+- buckie-listie:
+  + learn low level os-related thing 🕳️
+  + works in maang 👀
 
 ## My Tech Stack (Proficient at)
 *pwease no yellie, i never call myself a wise person evr!!11* 🤓🤨
