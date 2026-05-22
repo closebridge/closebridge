@@ -91,11 +91,6 @@
 ## github stuff 📊
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=closebridge&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=closebridge&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
-</div>
-
-<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=closebridge&theme=iceberg&hide_border=true" />
 </div>
 
